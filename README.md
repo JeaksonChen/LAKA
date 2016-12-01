@@ -1,2 +1,2 @@
 # LAKA
-This's LAKA's front end Demo
+This's LAKA's front end Demo.
